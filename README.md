@@ -1,4 +1,13 @@
-### Hi there 👋
+# Sobre mi
+
+### Soy un programador Front End, apasionado por crear interfaces web atractivas y fáciles de usar. He trabajado con herramientas como HTML, CSS y JavaScript, para crear experiencias web atractivas y funcionales, he trabajado con herramientas muy conocidad dentro del mundo del desarrollo web y la técnología, como pueden ser:
+
+- HTML
+- CSS
+- JavaScript
+- Github
+
+[Mi portafolio](https://marvinsolorzano.com/)
 
 <!--
 **USIS051620/USIS051620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
