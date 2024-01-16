@@ -1,4 +1,4 @@
-<h1 align="center">SOBRE MÍ 👋</h1>
+<h1 align="center">Hola!, Soy Marvin Solórzano 👋⚡</h1>
 
 ### Soy un programador Front End, apasionado por crear interfaces web atractivas y fáciles de usar. He trabajado con herramientas como HTML, CSS y JavaScript, para crear experiencias web atractivas y funcionales, he trabajado con herramientas muy conocidad dentro del mundo del desarrollo web y la técnología, como pueden ser:
 
