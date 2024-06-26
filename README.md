@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
-### Soy un programador Front End, apasionado por crear interfaces web atractivas y fáciles de usar. He trabajado con herramientas como HTML, CSS y JavaScript, para crear experiencias web atractivas y funcionales, he trabajado con herramientas muy conocidad dentro del mundo del desarrollo web y la técnología, como pueden ser:
+Soy un programador Front End, apasionado por crear interfaces web atractivas y fáciles de usar. He trabajado con herramientas como HTML, CSS y JavaScript, para crear experiencias web atractivas y funcionales, he trabajado con herramientas muy conocidad dentro del mundo del desarrollo web y la técnología, como pueden ser:
 
 - HTML
 - CSS
@@ -16,20 +16,27 @@
 - Github
 
 <hr>
+🚀 Sobre Mí: <br><br>
+Desde joven, me cautivó el mundo de la tecnología y el desarrollo web. Con varios proyectos en mi cartera, continuo esforzándome por mejorar mis habilidades cada día. Siempre estoy en busca de nuevos desafíos y oportunidades para crecer profesionalmente.
+
+<hr>
 
 <h3>
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px">
   </picture>
-  Frontend Development:
+  Desarrollo front-end:
 </h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" alt="bootstrap" width="40" height="40"/> </a>  
+  <a href="https://www.figma.com/es-la/design/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" width="40" height="40"/> </a>  
+  <a href="https://www.netacad.com/es" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cisco_academy_logo.svg/1200px-Cisco_academy_logo.svg.png" alt="cisco" width="40" height="40"/> </a> 
 </p>
 
-<hr>
+<hr> 
 
 <h3>
   <picture>
@@ -41,7 +48,9 @@
 [Mi portafolio](https://marvinsolorzano.com/)
 <hr>
 
-<h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
+<h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Contacto: </h3>
+Email: marvinjosuesolorzano178@gmail.com <br>
+Linkedin: Marvin Solórzano
 <hr>
 
 <div align="center">
