@@ -27,14 +27,41 @@ Desde joven, me cautivó el mundo de la tecnología y el desarrollo web. Con var
   </picture>
   Desarrollo front-end:
 </h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" alt="bootstrap" width="40" height="40"/> </a>  
-  <a href="https://www.figma.com/es-la/design/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" width="40" height="40"/> </a>  
-  <a href="https://www.netacad.com/es" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cisco_academy_logo.svg/1200px-Cisco_academy_logo.svg.png" alt="cisco" width="40" height="40"/> </a> 
-</p>
+
+Para el desarrollo front-end, utilizo una variedad de herramientas y tecnologías que me permiten crear interfaces de usuario atractivas y funcionales.
+
+<table>
+<tbody>
+  <tr>
+  <td align="center" width="33%">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60"/> </a> 
+  </td>
+
+  <td align="center" width="33%">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img height=60px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+  </td>
+  
+  <td align="center" width="33%"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" 
+  height="60"/> </a>
+  </td>
+  </tr>
+
+  <tr>
+  <td align="center" width="33%">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img height=60 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+  </td>
+
+  <td align="center" width="33%">
+  <a href="https://www.figma.com/es-la/design/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" height="60"/> </a>  
+  </td>
+
+  <td align="center" width="33%">
+    <a href="https://www.netacad.com/es" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cisco_academy_logo.svg/1200px-Cisco_academy_logo.svg.png" alt="cisco" width="40" height="40"/> </a> 
+  </td>
+  </tr>
+
+</table>
 
 <hr> 
 
@@ -49,8 +76,18 @@ Desde joven, me cautivó el mundo de la tecnología y el desarrollo web. Con var
 <hr>
 
 <h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Contacto: </h3>
-Email: marvinjosuesolorzano178@gmail.com <br>
-Linkedin: Marvin Solórzano
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/marvin-sol%C3%B3rzano-b0042a268/" target="blank"><img align="center"
+    src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="azzar" height="30"/></a>
+  <a href="mailto:marvinjosuesolorzano178@gmail.com" target="blank"><img align="center"
+    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="azzar" height="30"/></a>
+  <a href="https://github.com/USIS051620" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/></a>
+</p>
+
 <hr>
 
 <div align="center">
