@@ -30,38 +30,54 @@ Desde joven, me cautivó el mundo de la tecnología y el desarrollo web. Con var
 
 Para el desarrollo front-end, utilizo una variedad de herramientas y tecnologías que me permiten crear interfaces de usuario atractivas y funcionales.
 
-<table>
-<tbody>
-  <tr>
-  <td align="center" width="33%">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60"/> </a> 
-  </td>
-
-  <td align="center" width="33%">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img height=60px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
-  </td>
-  
-  <td align="center" width="33%"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" 
-  height="60"/> </a>
-  </td>
-  </tr>
-
-  <tr>
-  <td align="center" width="33%">
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img height=60 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
-  </td>
-
-  <td align="center" width="33%">
-  <a href="https://www.figma.com/es-la/design/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" height="60"/> </a>  
-  </td>
-
-  <td align="center" width="33%">
-    <a href="https://www.netacad.com/es" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cisco_academy_logo.svg/1200px-Cisco_academy_logo.svg.png" alt="cisco" width="40" height="40"/> </a> 
-  </td>
-  </tr>
-
-</table>
+<table align="center">
+    <tr>
+        <td align="center" width="96">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+          <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+        </a>
+        <br>Html5
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
+        </a>
+        <br>CSS3
+      </td>
+       <td align="center" width="96">
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        </a>
+        <br>Bootstrap
+      </td>
+       <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+        </a>
+        <br>Javascript
+      </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
+      </td>
+        <td align="center"  width="96">
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+        </a>
+        <br>VS Code
+      </td>
+        <td align="center" width="96">
+        <a href="https://www.figma.com/es-la/design/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="48" height="48" alt="Figma" />
+        </a>
+        <br>Figma
+      </td>
+    </tr>
+  </table>
 
 <hr> 
 
@@ -75,17 +91,33 @@ Para el desarrollo front-end, utilizo una variedad de herramientas y tecnología
 [Mi portafolio](https://marvinsolorzano.com/)
 <hr>
 
+Sistemas operativos 🐧:
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+<p align='center'>
+<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Zorin%20OS-0078D4?style=for-the-badge&logo=zorin&logoColor=white">&nbsp;&nbsp;
+</p>
+  
+<hr>
+
 <h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Contacto: </h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/marvin-sol%C3%B3rzano-b0042a268/" target="blank"><img align="center"
     src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="azzar" height="30"/></a>
+    alt="azzar" height="30"/></a>&nbsp;&nbsp;
   <a href="mailto:marvinjosuesolorzano178@gmail.com" target="blank"><img align="center"
     src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="azzar" height="30"/></a>
+    alt="azzar" height="30"/></a>&nbsp;&nbsp;
   <a href="https://github.com/USIS051620" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/></a>
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/></a>&nbsp;&nbsp;
 </p>
 
 <hr>
