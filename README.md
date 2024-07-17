@@ -98,7 +98,9 @@ Sistemas operativos 🐧:
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Zorin%20OS-0078D4?style=for-the-badge&logo=zorin&logoColor=white">&nbsp;&nbsp;
 </p>
