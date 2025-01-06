@@ -88,10 +88,10 @@ Para el desarrollo front-end, utilizo una variedad de herramientas y tecnología
   Mi portafolio:
 </h3>
 
-[Mi portafolio](https://marvinsolorzano.com/)
+[Portafolio Profesional](https://marvinsolorzano.com/)
 <hr>
 
-Sistemas operativos 🐧:
+<h3>Sistemas operativos 🐧:</h3>
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
@@ -110,7 +110,7 @@ Sistemas operativos 🐧:
 <h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Contacto: </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marvin-sol%C3%B3rzano-b0042a268/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/marvin-josu%C3%A9-sol%C3%B3rzano-cruz-b0042a268/" target="blank"><img align="center"
     src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="azzar" height="30"/></a>&nbsp;&nbsp;
   <a href="mailto:marvinjosuesolorzano178@gmail.com" target="blank"><img align="center"
