@@ -1,134 +1,142 @@
-<h1>
-  <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
-  Hola!, Soy Marvin Solórzano 👋⚡</a>
-</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <b>Hola, soy Marvin Solórzano</b> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=720&duration=8000&lines=Creando+experiencias+web+interactivas+y+eficientes.)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Creando+experiencias+web+interactivas.)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=USIS051620&label=Profile%20views&color=0e75b6&style=flat" alt="USIS051620"/> </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" width=300px alt="Marvin" src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-e724-61f8-b78b-9554cd434b00/raw?se=2025-04-18T18%3A45%3A50Z&sp=r&sv=2024-08-04&sr=b&scid=cf9cb9be-5f00-58a3-b0cf-f4d38d3060e2&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-17T20%3A25%3A32Z&ske=2025-04-18T20%3A25%3A32Z&sks=b&skv=2024-08-04&sig=BNUWIzRqBQ9uNVLB7xnZpaySb2G51MGwfvMSHPngG5E%3D" />
 
-Soy un programador Front End, apasionado por crear interfaces web atractivas y fáciles de usar. He trabajado con herramientas como HTML, CSS y JavaScript, para crear experiencias web atractivas y funcionales, he trabajado con herramientas muy conocidad dentro del mundo del desarrollo web y la técnología, como pueden ser:
+Soy un programador Front End apasionado por el desarrollo de interfaces web atractivas, intuitivas, funcionales y fáciles de usar. He trabajado con herramientas y framework fundamentales y populares como HTML, CSS, JavaScript, C#, Bootstrap, Vue js, Razor, entre otros. Me gusta crear soluciones personalizadas y fácil de usar, adaptadas a las necesidades específicas de cada proyecto. Disfruto transformar ideas en experiencias digitales efectivas y diseñadas.
 
-- HTML
-- CSS
-- JavaScript
-- Github
+- 💻 Me gusta mucho el desarrollo web, ser responsable y trabajar en equipo, procurando siempre ofrecer soluciones efectivas y fácil de comprender. <br/>
+- 📓 En este momento estoy profundizando en buenas prácticas de desarrollo, apoyándome en lecturas y vídeos del Bootcamp de Full Stack Jr que estoy cursando. <br/>
+- 📋 Deseo participar en proyectos que marquen mi camino y ser parte del desarrollo de tecnología innovadora. <br/>
+- 📖 Cosas de la vida: Un pequeño cambio en el código puede tener un gran impacto, tanto positivo como negativo.
+- ⚡ No dudes en preguntarme cualquier cosa; ¡estoy aquí para ayudarte con gusto! <br/>
+  
+<h2> 🌐 Contáctame: </h2>
+
+<a href="https://www.linkedin.com/in/marvin-josu%C3%A9-sol%C3%B3rzano-cruz-b0042a268/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn" />
+</a>
+
+<a href="https://marvinsolorzano.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" height="34" alt="Portafolio" />
+</a>
+
+<a href="mailto:marvinjosuesolorzano178@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Gmail" />
+</a>
 
 <hr>
-🚀 Sobre Mí: <br><br>
-Desde joven, me cautivó el mundo de la tecnología y el desarrollo web. Con varios proyectos en mi cartera, continuo esforzándome por mejorar mis habilidades cada día. Siempre estoy en busca de nuevos desafíos y oportunidades para crecer profesionalmente.
 
-<hr>
-
-<h3>
+<h2>
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px">
   </picture>
-  Desarrollo front-end:
-</h3>
+  Desarrollo Web:
+</h2>
 
-Para el desarrollo front-end, utilizo una variedad de herramientas y tecnologías que me permiten crear interfaces de usuario atractivas y funcionales.
+<p>
+  Para el desarrollo web, utilizo una variedad de herramientas y tecnologías que me permiten 
+  crear interfaces de usuario atractivas y funcionales.
+</p>
 
-<table align="center">
-    <tr>
-        <td align="center" width="96">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-          <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
-        </a>
-        <br>Html5
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-        </a>
-        <br>CSS3
-      </td>
-       <td align="center" width="96">
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-        </a>
-        <br>Bootstrap
-      </td>
-       <td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-        </a>
-        <br>Javascript
-      </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-        </a>
-        <br>Git
-      </td>
-        <td align="center"  width="96">
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-        </a>
-        <br>VS Code
-      </td>
-        <td align="center" width="96">
-        <a href="https://www.figma.com/es-la/design/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="48" height="48" alt="Figma" />
-        </a>
-        <br>Figma
-      </td>
-    </tr>
-  </table>
+<h3>Front End: </h3>
+<div align="left">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="34" alt="html5 logo" />
+  </a>
+  <img width="" />
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="34" alt="css3 logo" />
+  </a>
+  <img width="" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="34" alt="javascript logo" />
+  </a>
+</div>
 
-<hr> 
+<h3>Framework: </h3>
+<div align="left">
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="34" alt="bootstrap logo" />
+  </a>
+  <img width="" />
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="34" alt="react logo" />
+  </a>
+  <img width="" />
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="34" alt="vuejs logo" />
+  </a>
+</div>
 
-<h3>
+<h3>Otras Herramientas: </h3>
+<div align="left">
+  <a href="https://azure.microsoft.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="34" alt="azure logo" />
+  </a>
+  <img width="" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="34" alt="git logo" />
+  </a>
+  <img width="" />
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="34" alt="visualstudio logo" />
+  </a>
+  <img width="" />
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="34" alt="vscode logo" />
+  </a>
+  <img width="" />
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="34" alt="github logo" />
+  </a>
+</div>
+
+<hr>
+
+<h2>Sistemas operativos 🐧:</h2>
+<br>
+<p>Algunos de los sistemas que he utilizado y he trabajado son los siguiente:</p>
+<p align='center'>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
+</p>
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Zorin%20OS-0078D4?style=for-the-badge&logo=zorin&logoColor=white">
+</p>
+
+<hr>
+
+<h2>
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">
   </picture>
-  Mi portafolio:
-</h3>
-
-[Portafolio Profesional](https://marvinsolorzano.com/)
-<hr>
-
-<h3>Sistemas operativos 🐧:</h3>
+  Estadísticas de Github:
+</h2>
 <br>
-<p align='center'>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Zorin%20OS-0078D4?style=for-the-badge&logo=zorin&logoColor=white">&nbsp;&nbsp;
-</p>
-  
-<hr>
-
-<h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Contacto: </h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marvin-josu%C3%A9-sol%C3%B3rzano-cruz-b0042a268/" target="blank"><img align="center"
-    src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="azzar" height="30"/></a>&nbsp;&nbsp;
-  <a href="mailto:marvinjosuesolorzano178@gmail.com" target="blank"><img align="center"
-    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="azzar" height="30"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/USIS051620" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/></a>&nbsp;&nbsp;
-</p>
-
-<hr>
 
 <div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=USIS051620&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=USIS051620&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=USIS051620&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 
 <!--
 **USIS051620/USIS051620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
