@@ -17,15 +17,15 @@ Soy un programador Front End apasionado por el desarrollo de interfaces web atra
 <h2> 🌐 Contáctame: </h2>
 
 <a href="https://www.linkedin.com/in/marvin-josu%C3%A9-sol%C3%B3rzano-cruz-b0042a268/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
 </a>
 
 <a href="https://marvinsolorzano.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" height="34" alt="Portafolio" />
+  <img src="https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" height="28" alt="Portafolio" />
 </a>
 
 <a href="mailto:marvinjosuesolorzano178@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" />
 </a>
 
 <hr>
@@ -45,53 +45,53 @@ Soy un programador Front End apasionado por el desarrollo de interfaces web atra
 <h3>Front End: </h3>
 <div align="left">
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="34" alt="html5 logo" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="html5 logo" />
   </a>
   <img width="" />
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="34" alt="css3 logo" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="css3 logo" />
   </a>
   <img width="" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="34" alt="javascript logo" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="javascript logo" />
   </a>
 </div>
 
 <h3>Framework: </h3>
 <div align="left">
   <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="34" alt="bootstrap logo" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="bootstrap logo" />
   </a>
   <img width="" />
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="34" alt="react logo" />
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28" alt="react logo" />
   </a>
   <img width="" />
   <a href="https://vuejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="34" alt="vuejs logo" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="28" alt="vuejs logo" />
   </a>
 </div>
 
 <h3>Otras Herramientas: </h3>
 <div align="left">
   <a href="https://azure.microsoft.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="34" alt="azure logo" />
+    <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="28" alt="azure logo" />
   </a>
   <img width="" />
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="34" alt="git logo" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28" alt="git logo" />
   </a>
   <img width="" />
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="34" alt="visualstudio logo" />
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="28" alt="visualstudio logo" />
   </a>
   <img width="" />
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="34" alt="vscode logo" />
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="28" alt="vscode logo" />
   </a>
   <img width="" />
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="34" alt="github logo" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" alt="github logo" />
   </a>
 </div>
 
@@ -110,7 +110,7 @@ Soy un programador Front End apasionado por el desarrollo de interfaces web atra
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Zorin%20OS-0078D4?style=for-the-badge&logo=zorin&logoColor=white">
+  <img src="https://img.shields.io/badge/Zorin%20OS-0078D4?style=for-the-badge&logo=zorin&logoColor=white">&nbsp;&nbsp;
 </p>
 
 <hr>
