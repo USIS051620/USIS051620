@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=USIS051620&label=Profile%20views&color=0e75b6&style=flat" alt="USIS051620"/> </p>
 
-<img align="right" width=300px alt="Marvin" src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-e724-61f8-b78b-9554cd434b00/raw?se=2025-04-18T18%3A45%3A50Z&sp=r&sv=2024-08-04&sr=b&scid=cf9cb9be-5f00-58a3-b0cf-f4d38d3060e2&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-17T20%3A25%3A32Z&ske=2025-04-18T20%3A25%3A32Z&sks=b&skv=2024-08-04&sig=BNUWIzRqBQ9uNVLB7xnZpaySb2G51MGwfvMSHPngG5E%3D" />
+<img align="right" width=300px alt="Marvin" src="https://drive.google.com/uc?export=view&id=16xGs548aCvsI8ZPtG9Kr1uWDuvjWZiBJ" />
 
 Soy un programador Front End apasionado por el desarrollo de interfaces web atractivas, intuitivas, funcionales y fáciles de usar. He trabajado con herramientas y framework fundamentales y populares como HTML, CSS, JavaScript, C#, Bootstrap, Vue js, Razor, entre otros. Me gusta crear soluciones personalizadas y fácil de usar, adaptadas a las necesidades específicas de cada proyecto. Disfruto transformar ideas en experiencias digitales efectivas y diseñadas.
 
