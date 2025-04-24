@@ -1,4 +1,10 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <b>Hola, soy Marvin Solórzano</b> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <b>Soy Marvin Josué Solórzano Cruz</b> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
+
+<br>
+
+<img alt="Mi imagen" src="https://drive.google.com/uc?export=view&id=14TOW9hiSNBKIxfQ2r9lTHRx74DSDM2JG" />
+
+<br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=720&duration=8000&lines=Creando+experiencias+web+interactivas+y+eficientes.)
 
