@@ -12,7 +12,8 @@
 
 <img align="right" width=300px alt="Marvin" src="https://drive.google.com/uc?export=view&id=16xGs548aCvsI8ZPtG9Kr1uWDuvjWZiBJ" />
 
-Soy un programador Front End apasionado por el desarrollo de interfaces web atractivas, intuitivas, funcionales y fáciles de usar. He trabajado con herramientas y framework fundamentales y populares como HTML, CSS, JavaScript, C#, Bootstrap, Vue js, Razor, entre otros. Me gusta crear soluciones personalizadas y fácil de usar, adaptadas a las necesidades específicas de cada proyecto. Disfruto transformar ideas en experiencias digitales efectivas y diseñadas.
+Soy un programador Front End apasionado por el desarrollo de interfaces web atractivas, intuitivas, funcionales y fáciles de usar. Actualmente estoy como pasante en el área de Front End en la empresa Central American Software Service (CASS) donde sigo aprendiendo y creciendo en el mundo del desarrollo web. Me gusta trabajar en equipo y con diferentes herramientas para lograr soluciones prácticas y adaptadas a cada proyecto. He trabajado con herramientas y framework fundamentales y populares como HTML, CSS, JavaScript, C#, Bootstrap, Vue js, Razor, JSON, entre otros. Disfruto transformar ideas en experiencias digitales que realmente funcionen y conecten con las personas.
+
 
 - 💻 Me gusta mucho el desarrollo web, ser responsable y trabajar en equipo, procurando siempre ofrecer soluciones efectivas y fácil de comprender. <br/>
 - 📓 En este momento estoy profundizando en buenas prácticas de desarrollo, apoyándome en lecturas y vídeos del Bootcamp de Full Stack Jr que estoy cursando. <br/>
@@ -53,11 +54,9 @@ Soy un programador Front End apasionado por el desarrollo de interfaces web atra
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="html5 logo" />
   </a>
-  <img width="" />
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="css3 logo" />
   </a>
-  <img width="" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="javascript logo" />
   </a>
@@ -68,13 +67,14 @@ Soy un programador Front End apasionado por el desarrollo de interfaces web atra
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="bootstrap logo" />
   </a>
-  <img width="" />
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28" alt="react logo" />
   </a>
-  <img width="" />
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="28" alt="vuejs logo" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" height="28" alt="vuejs logo" />
   </a>
 </div>
 
@@ -83,19 +83,15 @@ Soy un programador Front End apasionado por el desarrollo de interfaces web atra
   <a href="https://azure.microsoft.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="28" alt="azure logo" />
   </a>
-  <img width="" />
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28" alt="git logo" />
   </a>
-  <img width="" />
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="28" alt="visualstudio logo" />
   </a>
-  <img width="" />
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="28" alt="vscode logo" />
   </a>
-  <img width="" />
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" alt="github logo" />
   </a>
@@ -117,6 +113,7 @@ Soy un programador Front End apasionado por el desarrollo de interfaces web atra
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Zorin%20OS-0078D4?style=for-the-badge&logo=zorin&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Parrot%20Security-15E0ED.svg?style=for-the-badge&logo=Parrot-Security&logoColor=white">&nbsp;&nbsp;
 </p>
 
 <hr>
